@@ -1,3 +1,5 @@
+<img src="https://github.com/mahyarmohammadimatin/Financial-Portfolio-Analysis-and-Risk-Management/blob/main/pic.png">
+
 ## Repository Contents:
 
 ### Descriptive Statistics and Performance Analysis:
